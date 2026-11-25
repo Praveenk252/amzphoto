@@ -14,3 +14,8 @@ The skill uses supplied product evidence to protect product identity, dimensions
 Copy this folder into your Codex skills directory as `amzphoto`, then invoke it with `$amzphoto`.
 
 AI-generated product renderings remain drafts until checked against the actual item. The skill does not guarantee Amazon approval or sales results.
+
+## Explainer
+
+See [WHAT-AMZPHOTO-CAN-DO.md](WHAT-AMZPHOTO-CAN-DO.md) for a 2,000-word overview of the skill's product-agnostic workflow, gallery image checklist, image generation, A+ Content, HTML previews, and accuracy review.
+
